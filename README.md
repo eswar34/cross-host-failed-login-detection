@@ -79,54 +79,7 @@ Bash scripting for security monitoring
 This project is for educational and defensive security purposes only.
 All data used is simulated.
 
-yaml
-Copy code
 
----
-
-# ✅ 3️⃣ LinkedIn Post (Student / Fresher Tone)
-
-Copy–paste and add your GitHub link:
-
----
-
-🔍 **SOC Learning | Cross-Host Log Analysis Project** 🔍  
-
-As part of my hands-on learning in **cybersecurity and SOC fundamentals**, I worked on a project focused on **detecting authentication failures across multiple hosts**.
-
-🛡️ **Project:** Cross-Host Failed Login Detection  
-📄 **What I built:**  
-• Analyzed authentication logs from multiple servers  
-• Detected source IPs attempting failed logins across different hosts  
-• Identified potential **lateral brute-force attack patterns**  
-• Implemented detection logic using **Bash scripting**
-
-🛠️ **Skills practiced:**  
-• Bash scripting  
-• Log parsing & correlation  
-• SOC detection logic  
-• Linux authentication logs  
-• Git & GitHub
-
-This project helped me understand why **single-host monitoring is not enough** and how SOC teams use centralized logs to detect advanced attack behavior.
-
-🔗 GitHub repository:  
-👉 *add your repo link here*
-
-Still learning and building more SOC-style detection projects 🚀  
-
-#CyberSecurity #SOC #StudentLearning #BlueTeam #Bash #Linux #LogAnalysis #DetectionEngineering #GitHub #InfoSec
-
----
-
-## 🧠 Mentor Verdict
-With this:
-- ✔ Correct detection logic  
-- ✔ Clean Git workflow  
-- ✔ Strong README  
-- ✔ Professional LinkedIn post  
-
-👉 This is **portfolio-ready SOC work**.
 
 ---
 
